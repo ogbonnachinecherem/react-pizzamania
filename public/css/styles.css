@@ -1,0 +1,44 @@
+.navbar-home {
+    background-color: #e90e0e;
+    border-color: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.navbar-home .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+.caro {
+   /* height: 550px;*/
+    margin-bottom: 0px;
+    
+}
+
+
+.foot{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+.navbar-home .navbar-nav > li > a:hover {
+    color: #000000;
+}
+.navbar-home .navbar-brand:hover {
+    color: #000000;
+    font-weight: bold;
+}
+#about {
+    text-align: center;
+    font-weight: bold;
+}
+#types {
+    text-align: center;
+    font-weight: bold;
+}
+
