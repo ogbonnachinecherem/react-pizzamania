@@ -1,11 +1,10 @@
 import React from "react";
 function Footer() {
     return <div>
-        <div className="container-fluid">
-            <div className="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 panel-footer foot">PIZZAMANIA All Rights Reserved</div>
-            </div>
-        </div>
+        <section id="sec5">
+     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 panel-footer foot">
+      <p>&copy; 2022 PIZZAMANIA All Rights Reserved</p></div>
+   </section>
     
     </div>
 }
